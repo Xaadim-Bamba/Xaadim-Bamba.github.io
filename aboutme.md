@@ -8,7 +8,7 @@ Je m'appelle Khadim MBENGUE, je suis étudiant en Ingégneurie de la décision e
 Je suis autodidacte en Machine et Deep Learning avec les langages Python et R.
 J'ai une une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises dans un laboratoire universitaire. Après un bref passage à un parcours Sysstèmes d'Information, j'ai décidé de m'orienter vers les data sciences.
 
-     **MON PARCOURS EN BREF**
+     MON PARCOURS EN BREF
 
 2023 : MASTER BIG DATA - INGÉNIERIE DE LA DÉCISION 
 
@@ -22,7 +22,7 @@ Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
 
 2020 : Méthodes Informatiques Appliquées à la Gestion des Entreprises
 
-     **C O M P E T E N C E S ET OUTILS**
+     COMPETENCES ET OUTILS
 
 Programmation: Java, C++, R, Python, Erlang, 
 
