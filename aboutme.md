@@ -7,16 +7,29 @@ subtitle: Ce qu'il y a à savoir sur moi
 Je m'appelle Khadim MBENGUE, je suis étudiant en Ingégneurie de la décision et du Big Data.
 Je suis autodidacte en Machine et Deep Learning avec les langages Python et R.
 
-J'ai une une licence de psychologie, un master de neurosciences et sciences du comportement et j'ai travaillé pendant 3 ans comme ingénieure d'études dans un laboratoire universitaire. Après ce bref passage dans le monde de la recherche universitaire, j'ai décidé de m'orienter vers les data sciences. Je possède une certification de Data Analyst et une certification d'Ingénieur Machine Learning (en cours d'obtention). Sur ce site, je vous propose avant tout de partager mes travaux en tant que data analyst et ingénieure Machine Learning.
+J'ai une une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises dans un laboratoire universitaire. Après un bref passage à un parcours Sysstèmes d'Information, j'ai décidé de m'orienter vers les data sciences.
 
 Mon parcours en bref
-2014 : Licence de psychologie (Université de Reims-Champagne Ardennes)
 
-2016 : Master Recherche Neurosciences et Science du comportement (Université de Caen)
+2023 : MASTER BIG DATA - INGÉNIERIE DE LA DÉCISION 
 
-Lien entre cinétoses, anxiété et ménopause (Mémoire de M1 validé avec Mention TB)
-Rythmes biologiques, dépression et troubles de l'humeur (Mémoire de M2 avec Mention B - Brain Stimulation, 2017)
-2021 : Data Analyst (OpenClassrooms - ENSAE/ENSAI) - Titre RNCP de niveau 6
+Modélisation Statistique : Modèles de régression linéaire , séries temporelles
 
-2022 : Ingénieure Machine Learning (OpenClassrooms - Centrale Supelec) - Titre RNCP de niveau 7
+Data Science : Analyse et base de données, machine learning, deep learning 
 
+Méthodes Numériques : Optimisation continue, EDP, génie logiciel 
+
+Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
+
+2020 : Méthodes Informatiques Appliquées à la Gestion des Entreprises
+
+     C O M P E T E N C E S ET OUTILS 
+Programmation: Java, C++, R, Python, Erlang, 
+
+Traitement et analyse de données : Numpy, Matplotlib, Pandas, Seaborn, 
+
+Machine Learning et Deep Learning : Scikit Learn, Tensorflow /kera 
+
+Outils Big Data et Bases de données : Spark/PySpark, PostgreSQL, NoSQL/MongoDb
+
+Outils de versionning de code : GIT, GITLAB
