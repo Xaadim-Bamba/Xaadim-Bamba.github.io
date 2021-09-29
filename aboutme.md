@@ -23,7 +23,8 @@ Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
 
 2020 : Méthodes Informatiques Appliquées à la Gestion des Entreprises
 
-     C O M P E T E N C E S ET OUTILS 
+     C O M P E T E N C E S ET OUTILS
+
 Programmation: Java, C++, R, Python, Erlang, 
 
 Traitement et analyse de données : Numpy, Matplotlib, Pandas, Seaborn, 
