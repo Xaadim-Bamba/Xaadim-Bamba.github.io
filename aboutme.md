@@ -20,7 +20,6 @@ Méthodes Numériques : Optimisation continue, EDP, génie logiciel
 
 Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
 
-2020 : Méthodes Informatiques Appliquées à la Gestion des Entreprises
 
      COMPETENCES ET OUTILS
 
@@ -44,5 +43,3 @@ Outils de versionning de code : GIT, GITLAB
 |C|⭐️⭐️⭐|Maths|
 |HTML/CSS/JS|⭐️⭐️⭐|Web|
 |PHP|⭐️⭐️⭐|Web, Base de Données|
-
-
