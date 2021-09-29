@@ -24,8 +24,6 @@ Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
 
      COMPETENCES ET OUTILS
 
-Programmation: Java, C++, R, Python, Erlang, 
-
 Traitement et analyse de données : Numpy, Matplotlib, Pandas, Seaborn, 
 
 Machine Learning et Deep Learning : Scikit Learn, Tensorflow /kera 
@@ -33,3 +31,18 @@ Machine Learning et Deep Learning : Scikit Learn, Tensorflow /kera
 Outils Big Data et Bases de données : Spark/PySpark, PostgreSQL, NoSQL/MongoDb
 
 Outils de versionning de code : GIT, GITLAB
+
+### 💻 Programmation
+
+|Langage|Skills|Domaines|
+|--------|------|-------|
+|Python|⭐️⭐️⭐️⭐️⭐️⭐️|Maths, AI, Data Science|
+|JAVA|⭐️⭐️⭐️⭐|Base de Données, Web, Application de Bureau|
+|SQL|⭐️⭐️⭐️⭐|Base de Données, Web|
+|R|⭐️⭐️⭐|Data Science, Maths|
+|C++|⭐️⭐️⭐|Programmation Orientée Objet, Application de Bureau |
+|C|⭐️⭐️⭐|Maths|
+|HTML/CSS/JS|⭐️⭐️⭐|Web|
+|PHP|⭐️⭐️⭐|Web, Base de Données|
+
+
