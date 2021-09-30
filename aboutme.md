@@ -4,13 +4,14 @@ title: About me
 subtitle: Ce qu'il y a à savoir sur moi
 ---
 
-Je m'appelle Khadim MBENGUE, je suis étudiant en Ingégneurie de la décision et du Big Data.
+Je m'appelle Khadim MBENGUE, je suis étudiant en Ingénierie de la décision et du Big Data.
 Je suis autodidacte en Machine et Deep Learning avec les langages Python et R.
-J'ai une une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises dans un laboratoire universitaire. Après un bref passage à un parcours Sysstèmes d'Information, j'ai décidé de m'orienter vers les data sciences.
+J'ai une une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises à l'Universté Grenoble Alpes.
+Après un bref passage à un parcours Systèmes d'Information, j'ai décidé de m'orienter vers les data sciences.
 
      MON PARCOURS EN BREF
 
-2023 : MASTER BIG DATA - INGÉNIERIE DE LA DÉCISION 
+2023 : MASTER INGÉNIERIE DE LA DÉCISION ET DU BIG DATA
 
 Modélisation Statistique : Modèles de régression linéaire , séries temporelles
 
