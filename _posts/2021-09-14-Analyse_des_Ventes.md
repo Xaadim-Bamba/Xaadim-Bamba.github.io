@@ -18,7 +18,6 @@ Le jeu de données utilisé est téléchargeable ici : [dataset](https://drive.g
 - Appliquer l'algèbre relationnelle en Python
 - Utiliser une documentation technique
 - Utiliser les librairies spécifiques à la Data Science
-- Effectuer des requêtes complexes en SQL
 - Maîtriser les bases de Python
 
 ## Le repo Github :
