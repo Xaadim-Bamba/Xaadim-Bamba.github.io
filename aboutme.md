@@ -36,7 +36,7 @@ Outils de versionning de code : GIT, GITLAB
 
 |Langage|Skills|Domaines|
 |--------|------|-------|
-|Python|⭐️⭐️⭐️⭐️⭐️️|Maths, AI, Data Science|
+|Python|⭐️⭐️⭐️⭐️⭐️️|Maths, IA, Data Science|
 |SQL|⭐️⭐️⭐️⭐|Base de Données, Web|
 |R|⭐️⭐️⭐|Data Science, Maths|
 |JAVA|⭐️⭐️⭐️⭐|Base de Données, Web, Application de Bureau|
