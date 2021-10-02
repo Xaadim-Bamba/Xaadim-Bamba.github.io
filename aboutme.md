@@ -6,8 +6,8 @@ subtitle: Ce qu'il y a à savoir sur moi
 
 Je m'appelle Khadim MBENGUE, je suis étudiant en Ingénierie de la décision et du Big Data.
 Je suis autodidacte en Machine et Deep Learning avec les langages Python et R.
-J'ai une une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises à l'Universté Grenoble Alpes.
-Après un bref passage à un parcours Systèmes d'Information, j'ai décidé de m'orienter vers les data sciences.
+J'ai une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises à l'Universté Grenoble Alpes.
+Après un bref passage à un parcours Systèmes d'Information(Master 1), j'ai décidé de m'orienter vers les data sciences.
 
      MON PARCOURS EN BREF
 
