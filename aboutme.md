@@ -17,6 +17,8 @@ Modélisation Statistique : Modèles de régression linéaire , séries temporel
 
 Data Science : Analyse et base de données, machine learning, deep learning 
 
+Datavisualisation : Tableau, streamlit, Dash
+
 Méthodes Numériques : Optimisation continue, EDP, génie logiciel 
 
 Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
