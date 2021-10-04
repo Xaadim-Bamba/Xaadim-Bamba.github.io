@@ -1,6 +1,6 @@
 ---
 layout: page
-title: To do List ![g]("https://cdn0.iconfinder.com/data/icons/travel-icon/512/check_list-512.png")
+title: To do List
 permalink: /todolist/
 ---
 
