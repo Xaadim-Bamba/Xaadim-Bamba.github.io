@@ -34,7 +34,7 @@ Datavisualisation : Tableau, streamlit, Dash
 
 Outils de versionning de code : GIT, GITLAB
 
-Outils de colloboration : google colaboraty
+Outils de colloboration : Slack, binder, google colaboraty
 
 Gestion de Projets: méthode AGILE, Kanban, diagramme de Gantt
 
