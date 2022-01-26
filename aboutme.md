@@ -45,7 +45,7 @@ Gestion de Projets: méthode AGILE, Kanban, diagramme de Gantt
 |Python|⭐️⭐️⭐️⭐️⭐️️|Maths, IA, Data Science|
 |SQL|⭐️⭐️⭐️⭐|Base de Données, Web|
 |R|⭐️⭐️⭐|Data Science, Maths|
-|JAVA|⭐️⭐️⭐️⭐|Base de Données, Web, Application de Bureau|
+|JAVA|⭐️⭐️⭐️⭐️⭐️|Base de Données, Web, Application de Bureau|
 |C++|⭐️⭐️⭐|Programmation Orientée Objet, Application de Bureau |
 |C|⭐️⭐️⭐|Maths|
 |HTML/CSS/JS|⭐️⭐️⭐|Web|
