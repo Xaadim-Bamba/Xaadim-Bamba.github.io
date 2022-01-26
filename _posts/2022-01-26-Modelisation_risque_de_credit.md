@@ -4,7 +4,7 @@ title: Machine Learning pour la modélisation du Risque de crédit (Credit Scori
 subtitle: 
 cover-img: /assets/img/euro.png
 thumbnail-img: /assets/img/credit.png
-tags: [projet, Machine Learning, ML, Traitement de données, ]
+tags: [projet,R,  Machine Learning, ML ]
 comments: true
 ---
 
@@ -15,3 +15,7 @@ Ainsi, elle est très consommatrice en temps et en ressources financières.
 
 Grâce au Machine Learning, il est possible d'automatiser cette tâche et de pouvoir prédire avec plus de précision les clients qui seront en défaut de paiement.
 
+## Compétences acquises :
+
+## Le projet disponible sur Rstudio cloud 
+https://rstudio.cloud/project/3475417
