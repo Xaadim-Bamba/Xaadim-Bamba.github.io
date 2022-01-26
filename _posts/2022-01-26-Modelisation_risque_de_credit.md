@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning pour la modélisation du Risque de crédit (Credit Scoring) dans R
 subtitle: 
 cover-img: /assets/img/credit.png
-thumbnail-img: /assets/img/Unknown.jpg
+thumbnail-img: /assets/img/credit.png
 tags: [projet, Machine Learning, ML, Traitement de données, ]
 comments: true
 ---
