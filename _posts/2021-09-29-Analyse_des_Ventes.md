@@ -21,4 +21,4 @@ Le jeu de données utilisé est téléchargeable ici : [dataset](https://drive.g
 - Maîtriser les bases de Python
 
 ## Le repo Github :
- - [GitHub](https://github.com/Xaadim-Bamba/Analyse-de-vente)
+ - [GitHub](https://github.com/Xaadim-Bamba/Analyse-de-vente/blob/main/Untitled.ipynb)

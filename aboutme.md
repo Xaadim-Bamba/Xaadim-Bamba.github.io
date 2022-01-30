@@ -5,9 +5,11 @@ subtitle: Ce qu'il y a à savoir sur moi
 ---
 
 Je m'appelle Khadim MBENGUE, je suis étudiant en Ingénierie de la décision et du Big Data.
-J'ai une forte appétence pour l’exploration et l’analyse de la Data.
-Je suis diplomé d'une licence Méthodes Informatiques Appliquées à la Gestion des Entreprises à l'Universté Grenoble Alpes.
 Après un bref passage à un parcours Systèmes d'Information(Master 1), j'ai décidé de m'orienter vers les data sciences.
+Je suis un passionné de nouvelles technologies et de programmation et j'ai ai une forte appétence pour l’exploration et l’analyse de la Data.
+Ma passion est de donner du sens aux données et les voir impacter le réel. 
+Ce qui me donne une forte volonté de travailler et d’apprendre tant concernant le monde du Data. 
+Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏.
 
      MON PARCOURS EN BREF
 
@@ -30,7 +32,7 @@ Machine Learning et Deep Learning : Scikit Learn, Tensorflow /kera
 
 Outils Big Data et Bases de données : Spark/PySpark, PostgreSQL, NoSQL/MongoDb
 
-Datavisualisation : Tableau, streamlit, Dash
+Datavisualisation : Tableau, streamlit, Dash, Amadéa
 
 Outils de versionning de code : GIT, GITLAB
 
