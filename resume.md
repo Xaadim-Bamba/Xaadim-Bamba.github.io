@@ -4,7 +4,7 @@ title: Resume
 permalink: /Resume/
 ---
 
-> I'm a French mathematics and informatics student based in Angers 🍾 , passionate about Data Science, Artificial intelligence.
+> I'm a French mathematics and informatics student at West Catholic University based in Angers 🍾 ,I'm passionate about Data Science, Artificial intelligence.
 
 # 📞  Contact information
 
