@@ -12,8 +12,6 @@ permalink: /Resume/
 
 📧  [**Email address**](mailto:xaadim.bamba@protonmail.com)
 
-🔗  [**LinkedIn**](https://www.linkedin.com/in/antonin-lefevre-0110/)
-
 🐙  [**Github**](https://github.com/Xaadim-Bamba)
 
 🌐  [**Website**](https://xaadim-bamba.github.io)
