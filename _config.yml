@@ -11,13 +11,13 @@ title: De la data, du Machine Learning et du Deep Learning
 # Your name to show in the footer
 author: Khadim MBENGUE
 
-# --- List of links in the navigation bar    --- #
+# --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me:
     - Profil: "aboutme  "
     - Certifications: "certifications"
-  Resume: "resume "
+  To Do List: "todolist"
 
 # --- Logo --- #
 
