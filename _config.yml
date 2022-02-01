@@ -17,7 +17,7 @@ navbar-links:
   About Me:
     - Profil: "aboutme  "
     - Certifications: "certifications"
-  To Do List: "todolist"
+  Resume: "resume"
 
 # --- Logo --- #
 
