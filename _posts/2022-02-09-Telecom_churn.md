@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/stops-churn.png
 tags: [projet, Classification, Machine Learning, ML, Deep Learning, Python ,Pytorch ]
 comments: true
 ---
+
 Le désabonnement d'un client se produit lorsque ce dernier décide de cesser d'utiliser les services,
 le contenu ou les produits d'une entreprise. Il existe de nombreux exemples et cas de désabonnement :
 
