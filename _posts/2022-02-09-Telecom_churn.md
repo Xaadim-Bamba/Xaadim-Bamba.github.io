@@ -4,7 +4,7 @@ title: CONSTRUCTION D'UN MODELE DE MACHINE LEARNING POUR PRÉDIRE LE DÉSABONNEM
 subtitle: Customer churn
 cover-img: /assets/img/churn.png
 thumbnail-img: /assets/img/churn1.png
-tags: [projet, Classification, Machine Learning, ML, Deep Learning, Python ,Pytorch ]
+tags: [projet, Classification, Machine Learning, ML, Deep Learning, Python ,Pytorch, Numpy, Pandas, Scikit-Learn ]
 comments: true
 ---
 
