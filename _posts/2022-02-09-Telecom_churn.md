@@ -1,12 +1,15 @@
 ---
 layout: post
-title: [En cours...] CONSTRUCTION D'UN MODELE DE MACHINE LEARNING POUR PRÉDIRE LE DÉSABONNEMENT DES CLIENTS D'UNE ENTREPRISE DE TELECOMMUNICATION
+title: CONSTRUCTION D'UN MODELE DE MACHINE LEARNING POUR PRÉDIRE LE DÉSABONNEMENT DES CLIENTS D'UNE ENTREPRISE DE TELECOMMUNICATION
 subtitle: Customer churn
 cover-img: /assets/img/stops-churn.png
 thumbnail-img: /assets/img/churn1.png
 tags: [projet, Classification, Machine Learning, ML, Deep Learning, Python ,Pytorch ]
 comments: true
 ---
+
+# Projet En Cours.... 
+
 Le désabonnement d'un client se produit lorsque ce dernier décide de cesser d'utiliser les services,
 le contenu ou les produits d'une entreprise. Il existe de nombreux exemples et cas de désabonnement :
 
