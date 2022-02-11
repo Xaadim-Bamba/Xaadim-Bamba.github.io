@@ -17,7 +17,7 @@ le contenu ou les produits d'une entreprise. Il existe de nombreux exemples et c
 * Achat dans un autre magasin concurrent ;       
 * Désabonnement d'une newsletter ;       
 * Clôture de compte bancaire ;          
-* Etc.          
+* Etc..          
 
 Dans ce monde des affaires où une entreprise fait face à de nombreux concurrents, le coût d'acquisition 
 de nouveaux clients est très élevé. Dès lors, la fidélisation des clients existants est plus importante 
