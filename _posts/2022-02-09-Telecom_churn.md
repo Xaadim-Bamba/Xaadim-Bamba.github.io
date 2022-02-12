@@ -30,8 +30,8 @@ Dans ce projet, nous explorerons un ensemble de données d'une entreprise de té
 dans le but de prédire les clients présentant un risque de désabonnement plus élevé. Nous utiliserons différents algorithmes
 de machine learning afin de comparer leurs performances puis nous choisisserons le meilleur modèle. 
 
-# Compétences acquises 
-Compétences acquises :
+# Compétences acquises :
+
 * Mettre en place le modèle d’apprentissage non supervisé adapté au problème métier
 * Transformer les variables pertinentes d’un modèle d’apprentissage non supervisé
 * Adapter les hyperparamètres d’un algorithme non supervisé afin de l’améliorer
