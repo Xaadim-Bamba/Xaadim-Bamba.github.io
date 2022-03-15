@@ -28,7 +28,7 @@ Technologies du Big Data : Hadoop, Spark, SQL/NoSQL
 
 Traitement et analyse de données : Numpy, Matplotlib, Pandas, Seaborn, 
 
-Machine Learning et Deep Learning : Scikit Learn, Tensorflow /kera 
+Machine Learning et Deep Learning : Scikit Learn, Tensorflow/keras 
 
 Outils Big Data et Bases de données : Spark/PySpark, PostgreSQL, NoSQL/MongoDb
 
