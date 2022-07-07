@@ -7,6 +7,7 @@ thumbnail-img:
 tags: [projet, Java, Maven, MongoDB, Dependancies, Jakarta]
 comments: true
 ---
+Le sujet posé s’intéresse à la gestion des Etablissements : ses Etudiants, ses Diplomes, ses Formations, stockés sur un fichiers json. L’idée est d’analyser le sujet, de le modéliser via des classes Java et de pouvoir automatiser sa gestion avec JAVA sur IntelliJ.
 
 |Propriétés|Valeurs|
 |------------|------|
@@ -24,11 +25,7 @@ Fonctionnalités : Injection de json, extraction des données en format XML par 
 ## Diagramme UML du programme
 <img src="/assets/img/img.png" width="694" height="432">
  
- ## Fonctionnement
- 
- ### Introduction
- 
-Le sujet posé s’intéresse à la gestion des Etablissements : ses Etudiants, ses Diplomes, ses Formations, stockés sur un fichiers json. L’idée est d’analyser le sujet, de le modéliser via des classes Java et de pouvoir automatiser sa gestion avec JAVA sur IntelliJ.
+## Fonctionnement
 
 ### Maven
 
