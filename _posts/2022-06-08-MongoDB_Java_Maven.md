@@ -67,7 +67,7 @@ Le pattern Dao est accompagné du pattern Factory, il permet de déléguer l’i
 
 ### Exécution
 
-Dans la classe « App, Il suffit d’appeler le constructeur des DAO pour pouvoir l’utiliser, notre code de la classe DAO présente les fonctionnalités complètes.
+Dans la classe « App, Il suffit d’appeler le constructeur des DAO pour pouvoir l’utiliser, mon code de la classe DAO présente les fonctionnalités complètes.
 
 ---
 
