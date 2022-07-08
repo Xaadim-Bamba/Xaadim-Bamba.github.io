@@ -29,7 +29,7 @@ Fonctionnalités : Injection de json, extraction des données en format XML par 
 
 ### Maven
 
-Pour la gestion du projet nous avons utilisé Maven qui permet de gérer les dépendances dans un projet Java.
+Pour la gestion du projet j'ai utilisé Maven qui permet de gérer les dépendances dans un projet Java.
 Le projet est découpé en quatre packages : main, dao, model, GUI. Le package « main » correspond aux classes qui vont permettre d’exécuter le projet. Les packages « dao » et « model » correspondent aux classes utilisées dans le pattern Dao. Puis le package GUI contient des classes de Jframe nécessaire à l’affichage graphique. Le fichier pom.xml gère les dépendances liées aux librairies Jakarta et MongoDB. Le fichier config.properties regroupe les paramètres essentiels pour se connecter à la base de données.
 
 ### Configuration
@@ -43,17 +43,17 @@ database=Projet2022
 
 ### Données
 
-Notre serveur MongoDB possède une Database, dans celle-ci nous constituons les collections suivantes : Adresse, Etablissement, Etudiant & Formation.
+Mon serveur MongoDB possède une Database, dans celle-ci je constitue les collections suivantes : Adresse, Etablissement, Etudiant & Formation.
 Les BDD MongoDB fonctionnent avec des Documents utilisant le format JSON.
 Ce format permet de représenter de l’information structurée. Nous chargeons le fichier json contenant l’ensemble des établissements d’enseignement supérieur en Pays de la Loire dans notre Database. De plus nous ajoutons Manuellement grâce aux DAO, 10 Etudiants et 10 formations.
 
 ### Pattern Singleton
 
-Nous avons utilisé le pattern Singleton pour établir le lien entre notre base et l’implémentation Java, il sert à mettre en place la connexion entre les deux. L’idée est de créer un objet Connection contenant la connexion déclaré en private. Ce pattern est mis en place dans la classe « MongoDBConnection », cette classe récupère les informations contenues dans le fichier config.properties.
+J'ai utilisé le pattern Singleton pour établir le lien entre notre base et l’implémentation Java, il sert à mettre en place la connexion entre les deux. L’idée est de créer un objet Connection contenant la connexion déclaré en private. Ce pattern est mis en place dans la classe « MongoDBConnection », cette classe récupère les informations contenues dans le fichier config.properties.
 
 ### Pattern DAO et pattern Factory
 
-Pour mettre en place le pattern DAO nous avons créé une classe pour chacun des objets, ces classes sont composées des propriétés correspondantes au champs des tables et des getters et setters (le package model). Pour chacune de ces classes on a créé une classe qui réalise les manipulations dans la base de données (AdresseDAO, EtablissementDAO, EtudiantDAO, FormationDAO). Ces dernières permettent de réaliser six opérations sur les données
+Pour mettre en place le pattern DAO j'ai créé une classe pour chacun des objets, ces classes sont composées des propriétés correspondantes au champs des tables et des getters et setters (le package model). Pour chacune de ces classes on a créé une classe qui réalise les manipulations dans la base de données (AdresseDAO, EtablissementDAO, EtudiantDAO, FormationDAO). Ces dernières permettent de réaliser six opérations sur les données
 
 - create(T obj) : boolean , pour créer un nouveau document dans une collection
 - update(T obj) : boolean, pour mettre à jour un document dans une collection, -
