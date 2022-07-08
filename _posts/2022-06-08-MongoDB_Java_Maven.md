@@ -3,7 +3,7 @@ layout: post
 title: Base de données MongoDB avec implémentation Java Maven
 subtitle: Gestion des Établissements
 cover-img:  /assets/img/gui.png
-thumbnail-img:  /assets/img/maxresdefault.jpeg
+thumbnail-img:  /assets/img/max.jpeg
 tags: [projet, Java, Maven, MongoDB, Dependancies, Jakarta]
 comments: true
 ---
