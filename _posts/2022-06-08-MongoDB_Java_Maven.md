@@ -49,7 +49,7 @@ Ce format permet de représenter de l’information structurée. Nous chargeons 
 
 ### Pattern Singleton
 
-J'ai utilisé le pattern Singleton pour établir le lien entre notre base et l’implémentation Java, il sert à mettre en place la connexion entre les deux. L’idée est de créer un objet Connection contenant la connexion déclaré en private. Ce pattern est mis en place dans la classe « MongoDBConnection », cette classe récupère les informations contenues dans le fichier config.properties.
+J'ai utilisé le pattern Singleton pour établir le lien entre ma base et l’implémentation Java, il sert à mettre en place la connexion entre les deux. L’idée est de créer un objet Connection contenant la connexion déclaré en private. Ce pattern est mis en place dans la classe « MongoDBConnection », cette classe récupère les informations contenues dans le fichier config.properties.
 
 ### Pattern DAO et pattern Factory
 
