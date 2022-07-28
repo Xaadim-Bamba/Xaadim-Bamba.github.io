@@ -53,7 +53,7 @@ J'ai utilisé le pattern Singleton pour établir le lien entre ma base et l’im
 
 ### Pattern DAO et pattern Factory
 
-Pour mettre en place le pattern DAO j'ai créé une classe pour chacun des objets, ces classes sont composées des propriétés correspondantes au champs des tables et des getters et setters (le package model). Pour chacune de ces classes on a créé une classe qui réalise les manipulations dans la base de données (AdresseDAO, EtablissementDAO, EtudiantDAO, FormationDAO). Ces dernières permettent de réaliser six opérations sur les données
+Pour mettre en place le pattern DAO j'ai créé une classe pour chacun des objets, ces classes sont composées des propriétés correspondantes au champs des tables et des getters et setters (le package model). Pour chacune de ces classes j'ai créé une classe qui réalise les manipulations dans la base de données (AdresseDAO, EtablissementDAO, EtudiantDAO, FormationDAO). Ces dernières permettent de réaliser six opérations sur les données
 
 - create(T obj) : boolean , pour créer un nouveau document dans une collection
 - update(T obj) : boolean, pour mettre à jour un document dans une collection, -
