@@ -63,7 +63,7 @@ Pour mettre en place le pattern DAO j'ai créé une classe pour chacun des objet
 
 Ces classes sont une extension de la superclasse « Dao » pour gérer correctement les connexions avec la base.
 
-Le pattern Dao est accompagné du pattern Factory, il permet de déléguer l’instanciation des objets à une classes, les objets DAO sont ainsi créés par celle-ci.
+Le pattern Dao est accompagné du pattern Factory, il permet de déléguer l’instanciation des objets à une classe, les objets DAO sont ainsi créés par celle-ci.
 
 ### Exécution
 
