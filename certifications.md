@@ -11,3 +11,6 @@ permalink: /certifications/
 ## 2. Microsoft az900 Fundamentals
 ![Picture](assets/img/az900.png)
 
+## 3. MongoDB SI Associate Certification
+![Picture](assets/img/mongodb.png)
+
