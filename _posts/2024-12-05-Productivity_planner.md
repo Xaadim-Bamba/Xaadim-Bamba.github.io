@@ -6,4 +6,7 @@ tags: [Angular 18, Productivity, Standalone, Git, Firebase, SaaS Platform, Authe
 comments: true
 ---
 Développement en cours...
-https://github.com/Xaadim-Bamba/awesome-app
+
+## Le repo Github :
+
+ - [GitHub](https://github.com/Xaadim-Bamba/awesome-app)
